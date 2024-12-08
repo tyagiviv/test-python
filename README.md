@@ -1,8 +1,11 @@
-# test-python
-this is my desc
-Test
-test2 dev
-test3
-
-test 4
-test5
+GIT basics 
+- git clone - to clone your repo
+- git init - to initialize git locally
+- git checkout - git checkout your branch
+- git add <filename>- git add one file
+- git add . - git add all changes
+- git commit -m "Message" - git commit message
+- git push origin your-branch - git pushing code to repo branch from local machine
+- git pull origin your-branch - pull code from branch to origin
+- git branch - to check in branches 
+- git merge your-branch (edited)  - merge your changes from one branch to another branch
